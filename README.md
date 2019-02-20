@@ -1,6 +1,4 @@
 # pRMSD
-<<<<<<< HEAD
-=======
 Calculation of permuntative RMSD using bound-and-branch approach
 The calcualtion works for now only for single atoms (or center of mass of molecules). 
 
@@ -24,4 +22,3 @@ for a in [[0, 0, 0], [0, -1, 0], [0, 1, 0], [1, 0, 0], [-1, 0, 0], [0, 0, 1], [0
 ```
 
 
->>>>>>> 4edda5b471b94b54ba23b67efbf6697416b13b0c
